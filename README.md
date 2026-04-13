@@ -1,30 +1,32 @@
 # Hotel Website Audit
 
-A free, AI-powered 5-point website health check for independent hotels.
+A hotel website audit is a structured check of your property's online booking flow, search visibility, mobile experience, technical SEO, and AI discoverability. This free tool runs that audit in under two minutes using any AI assistant — ChatGPT, Claude, or Gemini — and returns a red/yellow/green scorecard with actionable quick wins.
 
-Paste one line into any AI assistant — ChatGPT, Claude, Gemini — and get a red/yellow/green scorecard for your hotel website in under two minutes.
+Built for independent hoteliers, revenue managers, and marketing directors who want to know whether their website is helping or hurting direct bookings.
 
-## Quick Start
+## How to Audit Your Hotel Website
 
-Copy this prompt and paste it into your AI assistant of choice. Replace the URL with your hotel's website:
+Copy this one line and paste it into ChatGPT, Claude, Gemini, or any AI assistant with web access:
 
 ```
-Audit my hotel website at example.com using https://github.com/lightson-digital/hotel-website-audit
+Audit my hotel website using https://github.com/lightson-digital/hotel-website-audit
 ```
 
-That's it. The AI reads the methodology and runs the audit for you.
+The AI reads the audit methodology, asks for your hotel URL, and runs all 5 checks automatically.
 
-## What It Checks
+## What Does a Hotel Website Audit Check?
 
 | # | Area | What It Reveals |
 |---|------|-----------------|
-| 1 | **Book Direct Flow** | Does your booking button keep guests on your site — or leak them to OTAs? |
-| 2 | **Brand Search Ownership** | When someone Googles your hotel, who owns the results — you or Expedia? |
-| 3 | **Mobile Booking** | Can a guest book from their phone without friction? |
-| 4 | **Hotel Schema & SEO** | Does Google even know your site is a hotel? |
-| 5 | **AI Search Visibility** | When someone asks ChatGPT about your hotel, what comes up? |
+| 1 | **Book Direct Flow** | Does your booking button keep guests on your site — or leak them to OTAs like Booking.com and Expedia? |
+| 2 | **Brand Search Ownership** | When someone Googles your hotel name, who owns the top results — you or the OTAs? |
+| 3 | **Mobile Booking Experience** | Can a guest find, select, and book a room from their phone without friction? |
+| 4 | **Hotel Schema & Technical SEO** | Does Google and AI search engines even know your website is a hotel? |
+| 5 | **AI Search Visibility** | When a traveler asks ChatGPT or Perplexity about your hotel, does your own content appear — or only OTA listings? |
 
-## Sample Output
+Most independent hotels score red on at least 2 of these 5 areas. The two most common problems: Book Now buttons that quietly redirect to an OTA, and missing Hotel schema markup that makes your property invisible to AI search engines.
+
+## Sample Audit Output
 
 ```
 # Website Audit: Oceanview Resort & Spa
@@ -44,13 +46,40 @@ That's it. The AI reads the methodology and runs the audit for you.
 3. Add a FAQ page with common guest questions to improve AI discoverability
 ```
 
-## Want the Full Picture?
+## What This Audit Doesn't Cover
 
-This audit covers 5 surface-level checks. The gaps it finds are usually symptoms of deeper issues — rate parity leakage, channel dependency, booking abandonment, and missed revenue that a quick scan can't quantify.
+This is a surface-level check of 5 areas. The problems it finds are usually symptoms of deeper revenue leakage that a quick scan can't quantify:
 
-**Lights On Digital** runs comprehensive, AI-assisted hotel assessments covering revenue strategy, distribution, digital marketing, reputation, and conversion — backed by human expertise from operators who've managed hotel commercial strategy across the Pacific.
+- **Rate parity & distribution** — Are your rates consistent across channels? What's your OTA commission exposure?
+- **Revenue management** — ADR trends, occupancy patterns, competitive positioning
+- **Paid advertising** — Google Ads, Meta Ads, retargeting ROI
+- **Reputation & brand** — Review velocity, sentiment trends, social presence
+- **Conversion optimization** — Booking abandonment, on-page copy, photography quality
+
+## Get a Comprehensive Hotel Assessment
+
+**Lights On Digital** runs in-depth, AI-assisted hotel assessments covering revenue strategy, distribution, digital marketing, reputation, and conversion — backed by human expertise from operators who've managed hotel commercial strategy across the Pacific.
+
+The full assessment examines 25+ data points across 5 categories, scored with confidence tagging, and delivered as an actionable report with prioritized recommendations.
 
 [Book a free 30-minute consultation →](https://calendly.com/kin-lightson)
+
+## FAQ
+
+### How does this audit work?
+You paste one line into any AI chatbot (ChatGPT, Claude, Gemini). The AI reads the methodology from this repository, asks for your hotel website URL, visits your site, and produces a scorecard with ratings and quick wins.
+
+### Do I need to install anything?
+No. Any AI assistant with web browsing can run this audit. You just need access to ChatGPT, Claude, Gemini, or a similar tool.
+
+### Is this really free?
+Yes. The audit methodology is open source under the MIT license. The AI assistant you use may require its own subscription (e.g., ChatGPT Plus for web browsing).
+
+### How accurate is it?
+The audit checks observable, factual signals — whether your booking button links to an OTA, whether schema markup exists, whether your site is mobile-responsive. It won't catch everything a human expert would, but the issues it flags are real and fixable.
+
+### What's the difference between this and the full assessment?
+This free audit checks 5 surface-level areas using publicly available data. The full Lights On Digital assessment examines 25+ data points across revenue, distribution, digital marketing, brand, and web performance — with human expertise validating every finding and building a prioritized action plan.
 
 ---
 

@@ -5,7 +5,7 @@ description: 5-point website health check for hotels — booking flow, search ow
 
 # Hotel Website Audit
 
-Run a 5-point website health check for any hotel. Visit or search for the hotel website, assess each area below, and deliver a scorecard.
+Run a 5-point website health check for any hotel. If the user hasn't provided a hotel website URL, ask for it before starting. Once you have the URL, visit or search for the hotel website, assess each area below, and deliver a scorecard.
 
 ## Checks
 
