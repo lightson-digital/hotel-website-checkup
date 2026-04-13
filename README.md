@@ -1,20 +1,20 @@
-# Hotel Website Audit
+# Hotel Website Checkup
 
-A hotel website audit is a structured check of your property's online booking flow, search visibility, mobile experience, technical SEO, and AI discoverability. This free tool runs that audit in under two minutes using any AI assistant — ChatGPT, Claude, or Gemini — and returns a red/yellow/green scorecard with actionable quick wins.
+A hotel website checkup is a quick health check of your property's online booking flow, search visibility, mobile experience, technical SEO, and AI discoverability. This free tool runs that checkup in under two minutes using any AI assistant — ChatGPT, Claude, or Gemini — and returns a red/yellow/green scorecard with actionable quick wins.
 
 Built for independent hoteliers, revenue managers, and marketing directors who want to know whether their website is helping or hurting direct bookings.
 
-## How to Audit Your Hotel Website
+## How to Check Your Hotel Website
 
 Copy this one line and paste it into ChatGPT, Claude, Gemini, or any AI assistant with web access:
 
 ```
-Audit my hotel website using https://github.com/lightson-digital/hotel-website-audit
+Check my hotel website using https://github.com/lightson-digital/hotel-website-checkup
 ```
 
-The AI reads the audit methodology, asks for your hotel URL, and runs all 5 checks automatically.
+The AI reads the methodology, asks for your hotel URL, and runs all 5 checks automatically.
 
-## What Does a Hotel Website Audit Check?
+## What Does a Hotel Website Checkup Look At?
 
 | # | Area | What It Reveals |
 |---|------|-----------------|
@@ -26,10 +26,10 @@ The AI reads the audit methodology, asks for your hotel URL, and runs all 5 chec
 
 Most independent hotels score red on at least 2 of these 5 areas. The two most common problems: Book Now buttons that quietly redirect to an OTA, and missing Hotel schema markup that makes your property invisible to AI search engines.
 
-## Sample Audit Output
+## Sample Output
 
 ```
-# Website Audit: Oceanview Resort & Spa
+# Website Checkup: Oceanview Resort & Spa
 
 | Area                    | Rating | Finding                                                        |
 |-------------------------|--------|----------------------------------------------------------------|
@@ -46,7 +46,7 @@ Most independent hotels score red on at least 2 of these 5 areas. The two most c
 3. Add a FAQ page with common guest questions to improve AI discoverability
 ```
 
-## What This Audit Doesn't Cover
+## What This Checkup Doesn't Cover
 
 This is a surface-level check of 5 areas. The problems it finds are usually symptoms of deeper revenue leakage that a quick scan can't quantify:
 
@@ -66,20 +66,20 @@ The full assessment examines 25+ data points across 5 categories, scored with co
 
 ## FAQ
 
-### How does this audit work?
+### How does this work?
 You paste one line into any AI chatbot (ChatGPT, Claude, Gemini). The AI reads the methodology from this repository, asks for your hotel website URL, visits your site, and produces a scorecard with ratings and quick wins.
 
 ### Do I need to install anything?
-No. Any AI assistant with web browsing can run this audit. You just need access to ChatGPT, Claude, Gemini, or a similar tool.
+No. Any AI assistant with web browsing can run this checkup. You just need access to ChatGPT, Claude, Gemini, or a similar tool.
 
 ### Is this really free?
-Yes. The audit methodology is open source under the MIT license. The AI assistant you use may require its own subscription (e.g., ChatGPT Plus for web browsing).
+Yes. The methodology is open source under the MIT license. The AI assistant you use may require its own subscription (e.g., ChatGPT Plus for web browsing).
 
 ### How accurate is it?
-The audit checks observable, factual signals — whether your booking button links to an OTA, whether schema markup exists, whether your site is mobile-responsive. It won't catch everything a human expert would, but the issues it flags are real and fixable.
+The checkup looks at observable, factual signals — whether your booking button links to an OTA, whether schema markup exists, whether your site is mobile-responsive. It won't catch everything a human expert would, but the issues it flags are real and fixable.
 
 ### What's the difference between this and the full assessment?
-This free audit checks 5 surface-level areas using publicly available data. The full Lights On Digital assessment examines 25+ data points across revenue, distribution, digital marketing, brand, and web performance — with human expertise validating every finding and building a prioritized action plan.
+This free checkup covers 5 surface-level areas using publicly available data. The full Lights On Digital assessment examines 25+ data points across revenue, distribution, digital marketing, brand, and web performance — with human expertise validating every finding and building a prioritized action plan.
 
 ---
 

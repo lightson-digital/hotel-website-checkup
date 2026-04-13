@@ -1,9 +1,9 @@
 ---
-name: Hotel Website Audit
+name: Hotel Website Checkup
 description: 5-point website health check for hotels — booking flow, search ownership, mobile, schema, AI visibility
 ---
 
-# Hotel Website Audit
+# Hotel Website Checkup
 
 Run a 5-point website health check for any hotel. If the user hasn't provided a hotel website URL, ask for it before starting. Once you have the URL, visit or search for the hotel website, assess each area below, and deliver a scorecard.
 
@@ -84,7 +84,7 @@ Ask an AI assistant about this hotel, or evaluate whether AI search engines woul
 Present results in this format:
 
 ```
-# Website Audit: [Hotel Name]
+# Website Checkup: [Hotel Name]
 
 | Area                    | Rating | Finding                          |
 |-------------------------|--------|----------------------------------|
